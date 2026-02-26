@@ -4,7 +4,6 @@ Practica correspondiente a la clase de Estructura de Datos 2026-2 <br>
 **Descripción de la práctica**<br>
 # Estructura de Datos 2026-2 <br>
 ## Práctica 2: Arreglos <br>
-**Elaboró:** Erik Quintero Villeda <br>
 ---
 ### 1. Objetivos <br>
 Repasar el tema de **arreglos** y **abstracción de datos**. <br>
